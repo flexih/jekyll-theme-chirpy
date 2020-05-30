@@ -8,40 +8,38 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: flexih's blog                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: happy coding  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  flexih's blog, about code and life.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://flexih.github.io'
 
-author: your_full_name                  # change to your full name
+author: flexih                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: https://avatars3.githubusercontent.com/u/486415?s=460&u=c875673d4afb8e8596692e6c3fe4ed76ad539fe2&v=4   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: flexih             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: flexih            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: flexih                  # it will shows as the copyright owner in Footer
+  email:              # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/flexih       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: 7IfminJoNtd5X7pvmF4d1X5dG595SQUB4B-K-59sxrc # change to your verification string
 
 #--------------------------
 
